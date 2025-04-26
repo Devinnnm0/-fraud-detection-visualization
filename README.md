@@ -31,8 +31,6 @@ The "others" category showed the highest number of fraudulent transactions compa
 Fraud was present across all merchant types (travel, groceries, electronics, clothing), but the counts were consistently low relative to non-fraud.
 
 These insights suggest that fraud prevention efforts might benefit from closer monitoring of broad merchant categories like "others," where fraud attempts may be harder to detect through traditional category-based filters.
-## Key Findings
-...
 
 ## Visualization
 ![Fraud vs Non-Fraud Transactions by Merchant Type](Fraud.png)
